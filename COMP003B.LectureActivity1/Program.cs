@@ -1,3 +1,11 @@
+// this is a single line comment
+/* 
+ * Author: Jason Salinas
+ * Course: COMP003B
+ * Facult: Jpnathan Cruz
+ * Purpose: My first web app
+ */
+
 namespace COMP003B.LectureActivity1
 {
     public class Program
